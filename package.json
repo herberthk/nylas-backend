@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Herbert",
-  "license": "MIT",
+  "private": true,
   "scripts": {
     "clean": "del ./build",
     "gen-env": "gen-env-types .env -o env.d.ts -e .",
@@ -64,5 +64,6 @@
     "ts-jest": "^28.0.8",
     "ts-node-dev": "^2.0.0",
     "typescript": "5.2.2"
-  }
+  },
+  "license": "MIT"
 }
