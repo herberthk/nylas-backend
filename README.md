@@ -70,5 +70,13 @@ https://www.loom.com/share/ca719f6ef9334ebeb6ee9671429fed0f
 #### Part two
 https://www.loom.com/share/4c04919be92d4a28b5101e35446fac3e
 
+### Frontend repository
+https://github.com/herberthk/nylas-frontend
 
+### Support me (If helpful to you)
+https://wise.com/pay/me/kavumah1
+
+Don't forget to star this repo
+
+### License MIT
 
